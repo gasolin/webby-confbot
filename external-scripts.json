@@ -8,5 +8,6 @@
   "hubot-wikipedia",
   "webby-plugin",
   "hubot-rss-reader",
-  "hubot-schedule"
+  "hubot-schedule",
+  "hubot-factoids"
 ]
