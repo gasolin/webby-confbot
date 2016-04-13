@@ -9,6 +9,7 @@
   "webby-plugin",
   "hubot-rss-reader",
   "hubot-schedule",
-  "hubot-factoids",
-  "hubot-timezone"
+  "hubot-alias",
+  "hubot-timezone",
+  "hubot-ical-notifier"
 ]

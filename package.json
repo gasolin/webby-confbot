@@ -4,11 +4,13 @@
   "author": "Fred Lin <gasolin@gmail.com>",
   "description": "A simple helpful conference robot",
   "dependencies": {
+    "hubot-alias": "^0.1.9",
     "hubot-calculator": "^0.4.0",
     "hubot-cronjob": "^0.2.1",
     "hubot-diagnostics": "0.0.1",
     "hubot-factoids": "^0.2.7",
     "hubot-help": "^0.1.2",
+    "hubot-ical-notifier": "0.0.3",
     "hubot-maps": "0.0.2",
     "hubot-redis-brain": "0.0.3",
     "hubot-rss-reader": "^0.8.3",
